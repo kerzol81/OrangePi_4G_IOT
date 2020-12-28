@@ -1,6 +1,6 @@
-#Install Ubuntu 18.04 in VMWare
+# Install Ubuntu 18.04 in VMWare
 
-# these might need:
+# these might need if building fails
 
 # https://packages.ubuntu.com/search?keywords=lib32stdc%2B%2B6
 apt-get install lib32stdc++6
@@ -11,4 +11,4 @@ apt-get install debootstrap
 apt-get install schroot
 apt-get install binfmt-support qemu qemu-user-static
 
-# change REPO server !
+# change REPOSITORY Server from default to Official Repository Server
