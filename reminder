@@ -3,6 +3,8 @@ apt-get install debootstrap
 apt-get install schroot
 apt-get install binfmt-support qemu qemu-user-static
 
+apt-get install lib32stdc++6
+
 BUILD procedure order:
 
 3. Build Linux
