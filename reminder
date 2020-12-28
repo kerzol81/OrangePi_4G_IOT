@@ -1,0 +1,4 @@
+apt-get install fakeroot
+apt-get install debootstrap
+apt-get install schroot
+apt-get install binfmt-support qemu qemu-user-static
