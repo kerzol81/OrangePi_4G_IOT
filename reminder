@@ -5,7 +5,7 @@ apt-get install binfmt-support qemu qemu-user-static
 
 BUILD procedure order:
 
-Build Linux
-Build Kernel
+3. Build Linux
+4. Builld Module Only
 Build Uboot
 Build Release Image
