@@ -16,3 +16,7 @@ apt-get install binfmt-support qemu qemu-user-static
 # GREEN LED - proper boot
 
 # The firmware that comes on the board supports HDMI 720 x1280 at 48Hz, most monitorst dont wake up under 60Hz
+
+Baud rates:
+115200  
+921600
