@@ -14,3 +14,5 @@ apt-get install binfmt-support qemu qemu-user-static
 # change REPOSITORY Server from default to Official Repository Server
 
 # GREEN LED - proper boot
+
+# The firmware that comes on the board supports HDMI 720P
