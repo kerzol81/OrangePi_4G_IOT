@@ -12,3 +12,5 @@ apt-get install schroot
 apt-get install binfmt-support qemu qemu-user-static
 
 # change REPOSITORY Server from default to Official Repository Server
+
+# GREEN LED - proper boot
